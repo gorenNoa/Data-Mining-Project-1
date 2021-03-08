@@ -1,1 +1,2 @@
-# Data-Mining-Project-1
+# Web Scraping Project
+Web Scrapping from Gal Gadot Wikipedia page
